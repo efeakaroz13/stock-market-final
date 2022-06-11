@@ -43,8 +43,7 @@ for d in dataJson["symbol"]:
 
 
 
-df2 = pd.read_excel("angelscript.xlsx")
-dataJson2 = json.loads(df2.to_json())
+
 
 
 
